@@ -2,23 +2,16 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+The Prework Study Guide web page can be used to study notes related to HTML, CSS, Git, and
+JavaScript. Developers can add additional notes the further along they are into the
+Bootcamp. Developers can also peek into the web page console through "Inspect" to find one
+of the four topics to study based on completely random selection that is printed onto the console.
 
 ## Installation
 
 N/A (not applicable).
 
 ## Usage
-
-The Prework Study Guide web page can be used to study notes related to HTML, CSS, Git, and
-JavaScript. Developers can add additional notes the further along they are into the
-Bootcamp. Developers can also peek into the web page console through "Inspect" to find one
-of the four topics to study based on completely random selection that is printed onto the console.
 
 To use the this study guide, simply review the notes in each section.
 To access the console and find a topic suggestion, open Chrome DevTools. (Ctrl + Shift + I)
